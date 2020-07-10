@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![http status code](http://7xx.arti.ee/svg)
+![http status code](http://7xx.arti.ee/svg?d=asd)
 
 <!--
 **artizirk/artizirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
